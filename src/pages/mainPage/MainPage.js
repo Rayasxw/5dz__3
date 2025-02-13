@@ -13,7 +13,7 @@ function MainPage() {
     }, [dispatch]);
 
     return (
-        <div className={styles.container}>
+        <div >
             <h1>Ледниковый пероиод персонажи</h1>
             <div className={styles.conatainer}>
 
