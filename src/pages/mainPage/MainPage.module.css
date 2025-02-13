@@ -1,10 +1,10 @@
 .conatainer {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;  
+    gap: 30px;  
     justify-content: center;
     width: 1200px;
-    margin: 50px auto;
+    margin: 75px;
 }
 h1 {
     color: white;
